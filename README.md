@@ -6,3 +6,4 @@ Crack the riddles, escape the room and become the master of math!
 ![image](https://user-images.githubusercontent.com/57447482/138672068-d3557cd1-0fa2-4e30-9e42-90121e657e39.png)
 
 Get further details in : [formal-elements](https://github.com/Development-of-computer-games/Math-Escape-/wiki)
+[link to the game](https://sivannamma.itch.io/mathescape)
