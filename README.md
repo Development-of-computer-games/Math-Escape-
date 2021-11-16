@@ -7,3 +7,5 @@ Crack the riddles, escape the room and become the master of math!
 
 Get further details in : [formal-elements](https://github.com/Development-of-computer-games/Math-Escape-/wiki)
 [link to the game](https://sivannamma.itch.io/mathescape)
+
+### Explaination of the mini core game here [Link](https://github.com/Development-of-computer-games/Math-Escape-/wiki/Mini-game)
